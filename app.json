@@ -3,7 +3,7 @@
     "description": "I'm Web QR by mtaju groups",
     "logo": "https://telegra.ph/file/cd0ec9c4512dfb4555436.jpg",
     "repository": "https://github.com/Lazack28/Mtaju-bots",
-    "keywords": ["@Xcelsama"],
+    "keywords": ["@Mtajubots"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
     "env": {      
@@ -14,7 +14,7 @@
       },
       "MESSAGE": {
         "description": "set session id conformation message",
-        "value": "hello this is youre session id and join here https://chat.whatsapp.com/CX3mGQf5zJt4iYyIC3Ato8",
+        "value": "",
         "required": false 
       }
     }   
